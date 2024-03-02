@@ -2,11 +2,11 @@
 
 ### Italian Subs 10"
 
-- $15 Gabagool: capocollo
-- $16 Hot Gabagool: hot capocollo
-- $15 Mortadella
-- $16 Hot Salami
-- $15 Kolbassa
+- $11 Gabagool: capocollo
+- $12 Hot Gabagool: hot capocollo
+- $11 Mortadella
+- $12 Hot Salami
+- $11 Kolbassa
 
 ### Cans of Pop
 
